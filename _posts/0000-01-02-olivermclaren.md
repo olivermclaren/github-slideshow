@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Digging grooves into this smooth brain.
 Use the left arrow to go back!
